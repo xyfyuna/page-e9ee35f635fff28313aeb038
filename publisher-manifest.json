@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "c1d9dfd26a4fef21194ff4d5",
+  "owner": "xyfyuna",
+  "repo": "page-e9ee35f635fff28313aeb038",
+  "title": "机场测评",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e9ee35f635fff28313aeb038",
+      "a": "机场测评",
+      "b": "",
+      "entity": "机场测评",
+      "brand": "机场测评",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9a71f0165bd10b7617893fd449036de170e149a6e1b169a1d0c724ca9b9b0225",
+      "content": {
+        "keyword1": "机场测评",
+        "keyword2": "",
+        "primary_entity": "机场测评",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场测评提供专业的VPN加速器服务，多种套餐供选择，支持客户端下载和机场订阅。",
+          "AI_DESCRIPTION": "机场测评提供专业的VPN加速器服务，多种套餐供选择，支持客户端下载和机场订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n            background-color: #f8f4eb;\n            color: #2e5a3a;\n            margin: 0;\n            padding: 0;\n            line-height: 1.7;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        header {\n            background-color: #2c3e2f;\n            color: #fff;\n            padding: 20px 0;\n            text-align: center;\n        }\n        h1 {\n            margin: 0;\n            font-size: 2.5rem;\n        }\n        h2 {\n            color: #2c3e2f;\n            border-bottom: 2px solid #a3d9a3;\n            padding-bottom: 10px;\n        }\n        .grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 20px;\n            margin: 20px 0;\n        }\n        .card {\n            background-color: #fff;\n            border: 1px solid #2c3e2f;\n            padding: 20px;\n            border-radius: 8px;\n        }\n        .card.featured {\n            border: 2px solid #2c3e2f;\n            position: relative;\n        }\n        .card.featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background-color: #2c3e2f;\n            color: #fff;\n            padding: 5px 15px;\n            border-radius: 20px;\n            font-size: 0.8rem;\n        }\n        details {\n            margin-bottom: 10px;\n            border: 1px solid #a3d9a3;\n            border-radius: 8px;\n            padding: 10px;\n        }\n        summary {\n            font-weight: bold;\n            color: #2c3e2f;\n            cursor: pointer;\n        }\n        p {\n            margin: 10px 0;\n        }\n        ul, ol {\n            padding-left: 20px;\n        }\n        li {\n            margin: 5px 0;\n        }\n        footer {\n            background-color: #2c3e2f;\n            color: #fff;\n            padding: 20px;\n            text-align: center;\n            margin-top: 30px;\n        }\n        .footer-links a {\n            color: #a3d9a3;\n            margin: 0 10px;\n            text-decoration: none;\n        }\n        .footer-links a:hover {\n            text-decoration: underline;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2rem;\n            }\n            .grid {\n                grid-template-columns: 1fr;\n            }\n            main {\n                padding: 15px;\n            }\n        }\n    </style>\n\n\n    <header>\n        <div>\n            <h1>机场测评</h1>\n        </div>\n    </header>\n    <main>\n        <h2>品牌简介</h2>\n        <p>机场测评作为专业的VPN加速器品牌，致力于为全球用户提供安全、稳定、快速的网络加速服务。无论您是个人用户还是企业团队，我们都能为您量身定制适合的解决方案。</p>\n        <h2>使用场景</h2>\n        <p>机场测评广泛适用于多种场景，包括但不限于：全球网络加速、突破网络审查、解锁流媒体平台、在线游戏优化、远程办公协作以及隐私保护等。无论您身处何地，都能获得顺畅的网络体验。</p>\n        <h2>操作说明</h2>\n        <ol>\n            <li>访问官网，浏览适合您的套餐方案</li>\n            <li>完成在线支付，选择合适的支付方式</li>\n            <li>下载并安装对应平台的官方客户端</li>\n            <li>使用账号登录客户端，选择可用节点进行连接</li>\n            <li>享受高速稳定的网络加速服务</li>\n        </ol>\n        <h2>资费方案</h2>\n        <div class=\"grid\">\n            <div class=\"card\">\n                <h3>基础版</h3>\n                <p>¥15/月 | 按年付仅需 ¥150/年</p>\n                <ul>\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n            <div class=\"card featured\">\n                <h3>旗舰版</h3>\n                <p>¥35/月 | 按年付仅需 ¥350/年</p>\n                <ul>\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n            <div class=\"card\">\n                <h3>团队版</h3>\n                <p>¥85/月 | 按年付仅需 ¥850/年</p>\n                <ul>\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </div>\n        <h2>客户端选择</h2>\n        <p>机场测评提供多平台官方客户端，助力您高效连接节点。以下是推荐的客户端：</p>\n        <ul>\n            <li>Windows 桌面版</li>\n            <li>macOS 桌面版</li>\n            <li>Android 移动版</li>\n            <li>iOS 移动版</li>\n        </ul>\n        <p>根据您的设备选择官方客户端进行下载安装，即可快速体验加速服务。</p>\n        <h2>常见问题 FAQ</h2>\n        <details>\n            <summary>机场测评是什么服务？</summary>\n            <p>机场测评是一家专注于提供VPN加速器服务的品牌，我们通过优质的节点和稳定线路，帮助用户实现全球网络加速，保障您的隐私和畅快体验。</p>\n        </details>\n        <details>\n            <summary>如何下载机场测评客户端？</summary>\n            <p>您可以在官网的客户端下载页面选择适合您设备的客户端进行下载，我们提供多种版本确保兼容性。</p>\n        </details>\n        <details>\n            <summary>机场测评支持哪些设备和平台？</summary>\n            <p>我们支持主流操作系统，包括Windows、macOS、Android和iOS等，为不同用户提供便捷的连接方式。</p>\n        </details>\n        <details>\n            <summary>各套餐适合哪些用户？</summary>\n            <p>基础版适合个人日常使用，旗舰版适合需要流媒体解锁和游戏加速的用户，团队版适合企业用户提供定制化支持。</p>\n        </details>\n        <details>\n            <summary>机场测评的售后服务如何？</summary>\n            <p>我们提供7x24在线工单支持，团队版用户还可获得专属客户经理服务，快速解决使用中遇到的问题。</p>\n        </details>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <div>\n            <p>© 2024 机场测评 保留所有权利 | <a href=\"#\" class=\"footer-links\">隐私政策</a> | <a href=\"#\" class=\"footer-links\">友情链接</a></p>\n            <div>广告位：欢迎优质广告合作</div>\n            <p>友情链接：合作伙伴站点</p>\n        </div>\n    </footer>\n\n",
+          "hash": "d635366854a0254ebf983de1335b969fdd3322775ec2950fcfe35ce9147bc4f0",
+          "seo": {
+            "title": "机场测评 | 优质VPN加速器客户端下载与机场订阅",
+            "keywords": "机场测评,VPN加速器,客户端下载,机场订阅,加速服务",
+            "description": "机场测评提供专业的VPN加速器服务，多种套餐供选择，支持客户端下载和机场订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "u4847x.cn",
+    "host": "p-143b58ef7c.u4847x.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1d2f598f8bcf74bac09b341f75631948a54d04707f104fd76f29e7cd3c863d58",
+    "sitemap.xml": "4680cbfcfb088fca145fe25971e533f191659be50a33f11c760a603ad8187952",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "99640190d3e96f2f5c4a17176b8c843f9ff1faad11afddf710993787082affa4",
+    "robots.txt": "b049b555b64c298bebdf0a155a328d2c6f05c06b80a0a3a0245266612351d652",
+    "97fe00dbb8b436a915d0e653f8ebeb04.txt": "e51dadcd652f821d65c41a7736626dbdc11ff36539aee40c2909af1ac8b9ba43"
+  },
+  "revision": "fcb122188d90b160a5941949f24eb0b6c8556f19f7974a7624c5f7a968fbb9e9"
+}
